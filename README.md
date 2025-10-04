@@ -36,3 +36,27 @@ model.fit(X_train, y_train)
 # Feature importance
 lgb.plot_importance(model, max_num_features=10)
 plt.show()
+
+---
+
+
+---
+
+## Introduction
+**LightGBM** is a powerful gradient boosting framework developed by Microsoft.  
+It is known for:
+- **Speed and scalability**
+- **Leaf-wise tree growth** (unique to LightGBM)
+- **Support for GPU acceleration**
+- **Efficient handling of large datasets**
+
+Compared to XGBoost or CatBoost, LightGBM uses histogram-based learning and grows trees leaf-wise — enabling faster convergence and better accuracy in most real-world tasks.
+
+---
+
+## Installation
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sarmitamajumdar/LightGBM.git
+   cd LightGBM
