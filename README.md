@@ -66,3 +66,11 @@ Compared to XGBoost or CatBoost, LightGBM uses histogram-based learning and grow
 ## Install Dependencies
   pip install -r requirements.txt
 
+---
+
+## Author: Sarmita Majumdar
+ ###Role: Freelance AI & Data Science Writer | Python Developer
+ ###Expertise: Machine Learning, C Programming, AI Ethics, and Human-Centered Technology
+ ### Connect: LinkedIn: https://www.linkedin.com/in/sarmitamajumdar/
+              Medium: https://sarmita-majumdar.medium.com/
+
