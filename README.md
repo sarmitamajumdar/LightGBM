@@ -60,3 +60,9 @@ Compared to XGBoost or CatBoost, LightGBM uses histogram-based learning and grow
    ```bash
    git clone https://github.com/sarmitamajumdar/LightGBM.git
    cd LightGBM
+
+---
+
+## Install Dependencies
+  pip install -r requirements.txt
+
